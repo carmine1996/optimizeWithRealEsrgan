@@ -16,12 +16,13 @@ Install optimizeWithRealEsrgan
   cd optimizeWithRealEsrgan install 
   pip install requirements.txt
 ```
+
+## Execute script
+
+`pip rec.py`
+
     
 ## Autore script
 
 - [@carmine1996](https://github.com/carmine1996)
 
-
-## Execute script
-
-`pip rec.py`
