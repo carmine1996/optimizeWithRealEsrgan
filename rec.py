@@ -3,8 +3,8 @@ from PIL import Image
 import os
 
 # Percorso della cartella contenente le immagini
-input_folder = "C:/Users/suppo/OneDrive/Desktop/python/recup_imgs/input"
-output_folder = "C:/Users/suppo/OneDrive/Desktop/python/recup_imgs/out"
+input_folder = "path/to/folder/input"
+output_folder = "path/to/folder/output"
 
 
 if not os.path.exists(input_folder):
